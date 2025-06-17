@@ -14,7 +14,7 @@ A fun popular Wordle game built using Swift and UIKit.
 
 ## Screenshots
 
- ![Board](screenshots/board.png) 
+ ![Board](SimulatorScreenshot.png) 
 
 ## 🛠 Tech Stack
 
